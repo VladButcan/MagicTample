@@ -1,6 +1,6 @@
 Task1 :
 
-Pentru task 1 am scris un cod care citeste de la tastatura un sir de cuvinte 
+  Pentru task 1 am scris un cod care citeste de la tastatura un sir de cuvinte 
 care pot incepe cu litera "a", "b" sau "c".
   In dependenta de fiecare cuvant am format tipul de descifrare necesar dupa care 
 facem cate un pas in matrice, astfel am putut sa scap din acel labirint misteric.
